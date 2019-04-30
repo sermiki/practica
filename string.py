@@ -1,0 +1,15 @@
+m=("hola mundo")
+
+print (m.upper())#mayus. todo
+print (m.lower())#minuscula todo
+print (m.swapcase())#
+print (m.capitalize())#la primera letra es mayus.
+print(m.replace("hola", "nada"))# reemplaza la primera palabra
+print(m.startswith("hola"))#empieza con esa palabra?
+print(m.endswith("mundo"))#termina con es palabra?
+print(m.find("o"))#posicion de la letra
+print(len(m))
+print(m.index("m"))
+print(m.isnumeric())
+print(m.isalpha())
+print(m[4])
