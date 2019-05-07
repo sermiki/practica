@@ -1,1 +1,1 @@
-print("estas mal")
+m["hola", 3,'e',true,3.45]
