@@ -15,5 +15,11 @@ print(m.isalpha())
 print(m[4])
 if (m.len>10)
 	print (m)
+<<<<<<< HEAD
+else print (la longitud es menor a 10)
+for i in range (0,10)
+	print (m[i])
+=======
 else print ("la longitud es menor a 10")
 print ("la longitud es mayor a 10")
+>>>>>>> 612faeb4026fb1bdaf08b1651a97f1434e264b46
